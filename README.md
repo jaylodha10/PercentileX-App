@@ -25,12 +25,15 @@ Download the App from releases.
 ## 📱 Screenshots
 
 <div align="center">
-  <!-- Replace these links with your actual screenshot URLs -->
-  <!-- You can just drag and drop images directly into the GitHub Web Editor to generate links! -->
-  <img src="https://via.placeholder.com/250x500.png?text=Dashboard" width="22%" >
-  <img src="https://via.placeholder.com/250x500.png?text=Practice" width="22%" >
-  <img src="https://via.placeholder.com/250x500.png?text=Analytics" width="22%" >
-  <img src="https://via.placeholder.com/250x500.png?text=Dark+Mode" width="22%">
+  <img src="https://github.com/user-attachments/assets/0dbcbc51-3541-4363-b0e1-815767abd124" width="24%" alt="Screenshot 1">
+  <img src="https://github.com/user-attachments/assets/d53c9e19-c05d-4648-8f16-1cbe7dd716d3" width="24%" alt="Screenshot 2">
+  <img src="https://github.com/user-attachments/assets/5db5ddd9-b7ec-4e93-884f-7207b0493382" width="24%" alt="Screenshot 3">
+  <img src="https://github.com/user-attachments/assets/631d8ec9-65b2-497e-8bdb-9d9d16b7a897" width="24%" alt="Screenshot 4">
+  <br><br>
+  <img src="https://github.com/user-attachments/assets/2af151e8-4589-4c88-85f2-044f30e3d453" width="24%" alt="Screenshot 5">
+  <img src="https://github.com/user-attachments/assets/cd2b4520-8680-4b69-b514-5983ad446aed" width="24%" alt="Screenshot 6">
+  <img src="https://github.com/user-attachments/assets/4b51ea2d-2676-4436-a794-a5eb974f58cc" width="24%" alt="Screenshot 7">
+  <img src="https://github.com/user-attachments/assets/e5f0435c-2ec9-40ea-a09b-c7ebf1c8ed2d" width="24%" alt="Screenshot 8">
 </div>
 
 ---
