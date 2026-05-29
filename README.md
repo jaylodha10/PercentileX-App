@@ -18,7 +18,7 @@
 
 ## 📥 Download the App
 
-<a href="https://drive.google.com/file/d/1Ox5khW4bvoM10qSRS0vOtUJx6r5Xbstp/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1iDHA96qNHtGsKtz6pRmmI0uNuVpvWGpG/view?usp=sharing">
   <img src="https://img.shields.io/badge/Download-APK-green?style=for-the-badge" />
 </a>
 
