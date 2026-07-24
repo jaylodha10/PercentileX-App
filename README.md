@@ -19,7 +19,7 @@
 ## 📥 Download the App
 
 <a href="https://play.google.com/store/apps/details?id=com.percentilex.percentile_x&pcampaignid=web_share">
-  <img src="https://img.shields.io/badge/Download-APK-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Download-APP-green?style=for-the-badge" />
 </a>
 
 ---
