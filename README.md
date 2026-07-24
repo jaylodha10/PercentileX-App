@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="app_icon.png" width="120" alt="PercentileX Logo">
+  <img src="app_logo.png" width="120" alt="PercentileX Logo">
   
   # 🎯 PercentileX
   
